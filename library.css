@@ -18,13 +18,11 @@
     z-index: 1000;
     box-sizing: border-box;
 }
-}
 .nav img{
    width: 80px;
     max-width: 100%;
     height: auto;
     object-fit: contain;
-}
 }
 .nav ul{
     list-style: none;
